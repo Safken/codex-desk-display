@@ -22,8 +22,8 @@ Windows/Linux software and builds release/demo firmware from pinned dependencies
 See [VALIDATION.md](VALIDATION.md) for tested behavior and remaining limitations.
 The [MakerWorld listing](https://makerworld.com/en/models/3353225-codex-usage-monitor-under-monitor-screen-holder#profileId-3811349) is published with a print profile. Exact settings
 for the original fit-tested print were not recorded beyond P1S, PLA, and a
-0.4 mm nozzle. At publication review, MakerWorld displayed Standard Digital File
-License; it should be aligned with the intended CC BY-NC 4.0 model license.
+0.4 mm nozzle. The live MakerWorld listing was verified to use CC BY-NC 4.0,
+matching the model license in this repository.
 
 ## Keep local data private
 

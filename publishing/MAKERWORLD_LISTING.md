@@ -6,9 +6,8 @@ The listing links to the public GitHub project. Its profile lists 0.2 mm layers,
 two walls, and 15% infill. The copy below is retained for future description edits;
 it is not a verbatim record of the live description.
 
-License follow-up: the live page displayed Standard Digital File License during
-review. The intended model license remains CC BY-NC 4.0, as recorded in
-`case/LICENSE.md`; align the MakerWorld selection with that choice.
+License verified: the live page links to Creative Commons Attribution-Noncommercial
+4.0 (CC BY-NC 4.0), matching `case/LICENSE.md`.
 
 ## Title
 
