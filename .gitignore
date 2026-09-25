@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+*.sqlite*
+schemas/
+server-preflight.txt
+ubuntu-probe.txt
+ubuntu-login-check.txt
+ubuntu-runtime-probe.txt
+ubuntu-inspection.txt
+ubuntu-deploy.txt
+build/
+dist/
+.tools/
+firmware/secrets.h
+firmware/build/
+
+# Machine-specific settings and credentials
+config.local.json
+.env.*
+*.pem
+*.key
+auth.json

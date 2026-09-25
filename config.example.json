@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "port": 8790,
+  "database": "data/usage.sqlite",
+  "codex": "/home/user/.local/share/codex-usage-monitor/runtime/node_modules/.bin/codex",
+  "timezone": "UTC",
+  "poll_seconds": 300,
+  "stale_seconds": 900,
+  "allowed_networks": ["127.0.0.0/8"],
+  "allowed_hosts": ["localhost", "127.0.0.1"]
+}
