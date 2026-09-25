@@ -1,9 +1,14 @@
-# MakerWorld listing draft
+# MakerWorld listing copy and publication notes
 
-Status: copy-ready description draft; not published. Upload the exact original
-STL from `case/stl/Screen holder-v6.stl`. Do not substitute a repaired or scaled
-export. Select CC BY-NC 4.0 for the model. Source, build instructions, and the
-original STL are available in the public project repository linked below.
+Published listing: [Codex Usage Monitor - Under-Monitor Screen Holder](https://makerworld.com/en/models/3353225-codex-usage-monitor-under-monitor-screen-holder#profileId-3811349).
+
+The listing links to the public GitHub project. Its profile lists 0.2 mm layers,
+two walls, and 15% infill. The copy below is retained for future description edits;
+it is not a verbatim record of the live description.
+
+License follow-up: the live page displayed Standard Digital File License during
+review. The intended model license remains CC BY-NC 4.0, as recorded in
+`case/LICENSE.md`; align the MakerWorld selection with that choice.
 
 ## Title
 

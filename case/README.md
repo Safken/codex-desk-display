@@ -6,6 +6,10 @@ fit-tested this revision with four M3 x 4 mm screws. The source STL is included
 byte-for-byte, with its original filename; it has not been repaired, scaled,
 reoriented, or had metadata removed.
 
+[Open the MakerWorld model and print profile](https://makerworld.com/en/models/3353225-codex-usage-monitor-under-monitor-screen-holder#profileId-3811349). The published profile lists
+0.2 mm layers, two walls, and 15% infill. These are published profile settings;
+they do not establish the exact settings used for the original fit-tested print.
+
 ## Confirmed print information
 
 | Setting | Used for the working print |

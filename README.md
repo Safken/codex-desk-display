@@ -38,7 +38,8 @@ power-off requires a monitor port that actually switches off.
 
 - [Materials list](BOM.md)
 - [Printing and assembly](case/README.md)
-- [MakerWorld listing draft](publishing/MAKERWORLD_LISTING.md)
+- [MakerWorld model and print profile](https://makerworld.com/en/models/3353225-codex-usage-monitor-under-monitor-screen-holder#profileId-3811349)
+- [Listing copy and publication notes](publishing/MAKERWORLD_LISTING.md)
 - [Model license: CC BY-NC 4.0](case/LICENSE.md)
 - [Public-release audit](PUBLIC_READINESS.md)
 

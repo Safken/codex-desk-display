@@ -20,8 +20,10 @@ Start with [INSTALL.md](INSTALL.md), the [materials list](BOM.md), and the
 [print and assembly guide](case/README.md). The GitHub Actions workflow tests
 Windows/Linux software and builds release/demo firmware from pinned dependencies.
 See [VALIDATION.md](VALIDATION.md) for tested behavior and remaining limitations.
-The MakerWorld listing is a draft, not a published model listing. Exact slicer
-settings beyond P1S, PLA, and a 0.4 mm nozzle were not recorded.
+The [MakerWorld listing](https://makerworld.com/en/models/3353225-codex-usage-monitor-under-monitor-screen-holder#profileId-3811349) is published with a print profile. Exact settings
+for the original fit-tested print were not recorded beyond P1S, PLA, and a
+0.4 mm nozzle. At publication review, MakerWorld displayed Standard Digital File
+License; it should be aligned with the intended CC BY-NC 4.0 model license.
 
 ## Keep local data private
 
